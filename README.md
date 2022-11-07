@@ -214,17 +214,8 @@ int main()
 ~~~
  
 ## Tabulations and graph 
-SL NO	% OF POT VALUE	ADC VALUE
-1		
-2		
-3		
-4		
-5		
-6		
-7		
-8		
-9		
-10		
+![image](https://user-images.githubusercontent.com/94165322/200354236-7874978e-1dfe-44d5-9436-d5f6076da7b3.png)
+		
 
  ![image](https://user-images.githubusercontent.com/36288975/198947184-dbccf4b1-10a1-4090-a670-93526ed6e597.png)
 
@@ -234,10 +225,7 @@ SL NO	% OF POT VALUE	ADC VALUE
 Figure -09 graph between % of pot(1Kohm) values and ADC 
 
 
-Result :
-Configuring an ADC and the input values are displayed on LCD screen 
-
-Output screen shots :
+## Output screen shots :
 ![WhatsApp Image 2022-11-07 at 21 18 26](https://user-images.githubusercontent.com/94165322/200353801-387e358d-7a58-4835-bc8d-ce2d95100aeb.jpg)
 ![WhatsApp Image 2022-11-07 at 21 08 50](https://user-images.githubusercontent.com/94165322/200353855-43201ef8-a74f-4e3b-b407-39d848e0884c.jpg)
 
